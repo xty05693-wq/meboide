@@ -1,0 +1,2 @@
+# meboide
+IDE  for ai  
